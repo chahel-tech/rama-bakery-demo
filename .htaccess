@@ -1,0 +1,9 @@
+DirectoryIndex index.html
+
+<FilesMatch "\.(json)$">
+  Header set Content-Type "application/json"
+</FilesMatch>
+
+<FilesMatch "^(config\.php)$">
+  Require all denied
+</FilesMatch>

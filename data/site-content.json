@@ -1,0 +1,42 @@
+{
+  "siteName": "Rama's Bakery",
+  "tagline": "Fresh Homemade Cakes in Sector 102 Gurgaon",
+  "heroTitle": "Fresh. Homemade. Made with Love.",
+  "heroSubtitle": "Custom cakes, pure ghee cookies and celebration treats for every occasion.",
+  "phone": "7016765102",
+  "whatsapp": "917016765102",
+  "instagram": "https://www.instagram.com/ramaskitchenbakery/",
+  "locationText": "Sector 102, Gurgaon",
+  "mapQuery": "sector 102 gurgaon",
+  "aboutTitle": "About Rama's Bakery",
+  "aboutText": "Rama’s Bakery brings you freshly baked homemade cakes and cookies made with love and quality ingredients. We specialise in customised birthday cakes, celebration cakes and delicious baked treats for every occasion in Sector 102 Gurgaon.",
+  "specialityTitle": "Our Speciality",
+  "specialities": [
+    "Fresh Homemade Cakes",
+    "Pure Ghee Cookies",
+    "Healthy Cakes (No Maida No Sugar)",
+    "Customised Birthday Cakes",
+    "Taste the Love of Maa in Every Bite"
+  ],
+  "logoImage": "assets/images/logo.png",
+  "heroImage": "assets/images/bg.jpeg",
+  "menuImage": "assets/images/menu.jpeg",
+  "contactImage": "assets/images/contact.png",
+  "cakeImages": [
+    "assets/images/cake1.jpeg",
+    "assets/images/cake2.jpeg",
+    "assets/images/cake3.jpeg",
+    "assets/images/cake4.jpeg",
+    "assets/images/cake5.jpeg",
+    "assets/images/cake6.jpeg",
+    "assets/images/cake7.jpeg",
+    "assets/images/cake8.jpeg",
+    "assets/images/cake9.jpeg",
+    "assets/images/cake10.jpeg"
+  ],
+  "freshBakeImages": [
+    "assets/images/c1.jpeg",
+    "assets/images/c2.jpeg",
+    "assets/images/c3.jpeg"
+  ]
+}

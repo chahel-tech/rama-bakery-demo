@@ -1,0 +1,22 @@
+Mobile responsive version added.
+
+Changes:
+- Better mobile website header and hamburger menu.
+- Cleaner mobile hero section.
+- Gallery stays neat on phones.
+- Admin panel is easier on mobile.
+- Upload buttons are full width on phone.
+- Bottom save bar is fixed and touch-friendly.
+- Inputs use 16px font to stop mobile browser zoom.
+
+How to test on phone locally:
+1. Open terminal inside this folder.
+2. Run: php -S 0.0.0.0:8000
+3. Find laptop IP: hostname -I
+4. Open on phone: http://YOUR-IP:8000
+5. Admin: http://YOUR-IP:8000/#admin
+
+Upload to GoDaddy:
+- Upload the ZIP into public_html.
+- Extract it.
+- Ensure index.html, css, js, api, assets, data are directly inside public_html.
